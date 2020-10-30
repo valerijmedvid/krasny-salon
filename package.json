@@ -1,0 +1,27 @@
+{
+  "name": "krasny-salon",
+  "version": "1.0.0",
+  "description": "Web page for beauty salon",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valerijmedvid/krasny-salon.git"
+  },
+  "keywords": [
+    "vue",
+    "nuxt",
+    "js",
+    "beauty",
+    "nymburk"
+  ],
+  "author": "Valerij Medvid",
+  "bugs": {
+    "url": "https://github.com/valerijmedvid/krasny-salon/issues"
+  },
+  "homepage": "https://github.com/valerijmedvid/krasny-salon#readme"
+}
