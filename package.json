@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/valerijmedvid/krasny-salon/issues"
   },
-  "homepage": "https://github.com/valerijmedvid/krasny-salon#readme"
+  "homepage": "https://github.com/valerijmedvid/krasny-salon#readme",
+  "dependencies": {
+    "nuxt": "^2.14.7"
+  }
 }
